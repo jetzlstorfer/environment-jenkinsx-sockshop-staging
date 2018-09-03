@@ -13,3 +13,6 @@ dependencies:
 - name: front-end
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.3.20
+- name: user
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.4.9
