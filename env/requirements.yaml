@@ -30,7 +30,7 @@ dependencies:
   version: 0.3.2
 - name: shipping
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.4.13
+  version: 0.4.14
 - name: user
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.4.18
