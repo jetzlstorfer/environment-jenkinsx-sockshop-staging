@@ -21,7 +21,7 @@ dependencies:
   version: 0.1.16
 - name: orders
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.4.22
+  version: 0.4.23
 - name: payment
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.4.27
