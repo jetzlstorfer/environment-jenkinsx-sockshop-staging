@@ -33,4 +33,4 @@ dependencies:
   version: 0.4.15
 - name: user
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.4.27
+  version: 0.4.29
