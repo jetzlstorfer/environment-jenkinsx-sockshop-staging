@@ -4,7 +4,7 @@ dependencies:
   version: 0.4.37
 - name: catalogue
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.3.40
+  version: 0.3.42
 - alias: expose
   name: exposecontroller
   repository: https://chartmuseum.build.cd.jenkins-x.io
