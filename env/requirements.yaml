@@ -15,7 +15,7 @@ dependencies:
   version: 2.3.58
 - name: front-end
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.3.25
+  version: 0.3.26
 - name: load-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.16
