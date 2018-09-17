@@ -24,7 +24,7 @@ dependencies:
   version: 0.4.31
 - name: payment
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.4.33
+  version: 0.4.34
 - name: queue-master
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.3.8
